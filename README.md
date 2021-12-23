@@ -20,13 +20,12 @@
 
 ##
   
-<div>  
-  
+<div> 
+
   <a href="https://www.linkedin.com/in/gabriel-venezian/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Icon"></a> 
   <a href="https://www.instagram.com/gah_venezian/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Icon"></a>
   <a href="https://wa.me/5519996618086"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Icon"></a>
   <a href="https://t.me/gabrielvenezian"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Icon"></a>
-  <a href="mailto:gabriel.venezian@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Microsoft Outlook Icon"></a> 
   <a href="mailto:dev.venezian@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Icon"></a>
   <a href="https://discordapp.com/users/Avenger#9193/"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Icon"></a>
   <a href="https://open.spotify.com/user/pz989yqmpp4z9jtvmwq2hkanj?si=8MBDd4mHRsCG4M3xeMaVAw&utm_source=copy-link/"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Icon"></a>
