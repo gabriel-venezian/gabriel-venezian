@@ -1,9 +1,9 @@
-##
+<hr />
 
 <div align="center">
   <a href="https://github.com/gabriel-venezian">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel-venezian&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-venezian&layout=compact&langs_count=5&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel-venezian&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-venezian&layout=compact&langs_count=5&theme=github_dark&hide_border=true"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -18,7 +18,7 @@
   <img align="center" alt="Csharp Icon" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg">
 </div>
 
-##
+<hr />
   
 <div> 
 
